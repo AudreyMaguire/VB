@@ -1,0 +1,11 @@
+C:\Users\C1010\AppData\Local\Temporary Projects\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\C1010\AppData\Local\Temporary Projects\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\C1010\AppData\Local\Temporary Projects\Lab 1\bin\Debug\Lab 1.xml
+C:\Users\C1010\AppData\Local\Temporary Projects\Lab 1\obj\x86\Debug\Lab_1.Resources.resources
+C:\Users\C1010\AppData\Local\Temporary Projects\Lab 1\obj\x86\Debug\Lab 1.vbproj.GenerateResource.Cache
+C:\Users\C1010\AppData\Local\Temporary Projects\Lab 1\obj\x86\Debug\Lab 1.exe
+C:\Users\C1010\AppData\Local\Temporary Projects\Lab 1\obj\x86\Debug\Lab 1.xml
+C:\Users\C1010\AppData\Local\Temporary Projects\Lab 1\obj\x86\Debug\Lab 1.pdb
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab 1\obj\x86\Debug\Lab 1.exe
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab 1\obj\x86\Debug\Lab 1.xml
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab 1\obj\x86\Debug\Lab 1.pdb

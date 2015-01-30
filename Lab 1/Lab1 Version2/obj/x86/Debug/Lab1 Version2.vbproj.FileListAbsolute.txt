@@ -1,0 +1,8 @@
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab1 Version2\bin\Debug\Lab1 Version2.exe
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab1 Version2\bin\Debug\Lab1 Version2.pdb
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab1 Version2\bin\Debug\Lab1 Version2.xml
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab1 Version2\obj\x86\Debug\Lab1_Version2.Resources.resources
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab1 Version2\obj\x86\Debug\Lab1 Version2.vbproj.GenerateResource.Cache
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab1 Version2\obj\x86\Debug\Lab1 Version2.exe
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab1 Version2\obj\x86\Debug\Lab1 Version2.xml
+C:\Users\C1010\documents\visual studio 2010\Projects\Lab 1\Lab1 Version2\obj\x86\Debug\Lab1 Version2.pdb
